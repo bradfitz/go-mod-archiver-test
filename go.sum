@@ -1,2 +1,2 @@
-github.com/tailscale/go-mod-archiver v0.0.0-20210524172238-1c0e632d0506 h1:iGtHs7UGrtyT5sgSd96MHGtGX74HF8A3mYhb3lzaPw0=
-github.com/tailscale/go-mod-archiver v0.0.0-20210524172238-1c0e632d0506/go.mod h1:mw3uA2RSGAYqDOiQZ6liUlHVAXa711F5C0AD0k5nvHo=
+github.com/tailscale/go-mod-archiver v0.0.0-20210524173209-584b25f3d327 h1:F7qEwrLEosCjMOgegj0G6fGZGf/cmw19N8ZMChxiMBc=
+github.com/tailscale/go-mod-archiver v0.0.0-20210524173209-584b25f3d327/go.mod h1:mw3uA2RSGAYqDOiQZ6liUlHVAXa711F5C0AD0k5nvHo=
