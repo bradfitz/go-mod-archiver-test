@@ -1,0 +1,22 @@
+name: go-mod-archive
+
+on:
+  push:
+    branches:
+      - main
+      - "release-branch/*"
+
+jobs:
+  world:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code into the Go module directory
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: go mod archive
+        run: |
+          go run github.com/tailscale/go-mod-archiver
+
